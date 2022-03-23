@@ -1,6 +1,0 @@
-/*
-  outtest
-*/
-
-import './outlib'
-

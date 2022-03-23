@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/copiner/tscode/issues"
   },
-  "homepage": "https://github.com/copiner/tscode#readme"
+  "homepage": "https://github.com/copiner/tscode#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.175"
+  }
 }
